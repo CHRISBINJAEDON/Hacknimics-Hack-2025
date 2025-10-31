@@ -168,7 +168,7 @@ We discovered that **innovation must balance human safety and ecological harmony
 
 Try it out Video https://youtu.be/yz2kcooeCaM
 Field demo Video https://youtu.be/ReLTamfFB6Q
-presentation Video 
+presentation Video https://youtu.be/Su7oWx0_tVs 
 ```bash
 # Clone repository
 git clone https://github.com/CHRISBINJAEDON/Hacknimics-Hack-2025.git
