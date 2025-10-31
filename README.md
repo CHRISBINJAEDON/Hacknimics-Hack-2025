@@ -171,7 +171,8 @@ Field demo Video https://youtu.be/ReLTamfFB6Q
 presentation Video 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PhantomBank.git
+git clone https://github.com/CHRISBINJAEDON/Hacknimics-Hack-2025.git
+https://devpost.com/software/dtshac-smart-safety-for-forest-edge-economies
 
 # Install dependencies
 cd PhantomBank
