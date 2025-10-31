@@ -162,7 +162,7 @@ We discovered that **innovation must balance human safety and ecological harmony
 - Develop as a standard rural safety toolkit  
 - Replicate the model globally for biodiversity hotspots  
 
----
+
 
 ## 🛠️ Installation (for prototype dashboard/app)
 
